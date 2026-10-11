@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Campus Lost & Found Portal",
+            "request": "launch",
+            "mainClass": "com.campus.campus_lost_found.CampusLostFoundApplication",
+            "projectName": "campus-lost-found",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
